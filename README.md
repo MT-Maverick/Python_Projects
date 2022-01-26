@@ -1,2 +1,2 @@
 # Python_Projects
-Random Python Project For Fun
+Random Python Projects For Fun
